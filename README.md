@@ -1,5 +1,9 @@
+
 # BFME_Line_formation
 
+## What is BFME? 
+
+  Check out intro video/channel --> https://www.youtube.com/watch?v=MLLQLfExank 
 
 Please follow the Code Syntax from BFME: Reforged for the task. This will help with the code review and to get yourself familiar with our approach.
 
